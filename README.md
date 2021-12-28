@@ -3,4 +3,8 @@ My solutions for the Assignments for the course - Cloud Computing - CSGY 9223 Co
 
 NOTE: Please do not copy the solutions for your assignments directly.
 
-First Assignment of dining concierge - https://github.com/Pruthviraj98/HungrazyNY
+First Assignment : Dining Concierge - https://github.com/Pruthviraj98/HungrazyNY
+
+Second Assignment : Smart Photo Album - https://github.com/Pruthviraj98/PicPiper
+
+Capstone Project : Fantastock - https://github.com/Pruthviraj98/Fantastock
